@@ -1,4 +1,4 @@
-package Package;
+package Package_practica1;
 
 public class Ejemplo {
 
@@ -6,7 +6,7 @@ public class Ejemplo {
 		// TODO Auto-generated method stub
 
 		
-
+		
 		System.out.println("Hola rama 1");
 
 	}
